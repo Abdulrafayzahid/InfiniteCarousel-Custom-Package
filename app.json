@@ -1,0 +1,12 @@
+{
+  "name": "InfiniteCarouselView",
+  "displayName": "InfiniteCarouselView",
+  "expo": {
+    "name": "InfiniteCarouselView",
+    "slug": "InfiniteCarouselView",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
